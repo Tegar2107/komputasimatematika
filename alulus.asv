@@ -1,0 +1,5 @@
+%kalkulus sederhana
+%limit
+&contoh 1
+syms x
+limit((x^3+5)/()
